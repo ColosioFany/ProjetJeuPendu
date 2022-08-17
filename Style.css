@@ -1,0 +1,91 @@
+#motADeviner{
+    letter-spacing: 5px;
+}
+
+#canvas1{
+    width: 225px;
+    height: 250px;
+    border:2px solid #999;
+   
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+#index{
+   
+    text-align: left;
+    /*background-color:rgb(70, 70, 70);
+    background-color:  rgb(223, 133, 133);*/
+    background-image: url("Images/texture.jpg");
+    background-attachment: fixed;
+    color: white; 
+}
+
+#plageI{
+    margin-top: 50px; 
+    text-align: center;
+    background-image: url("Images/test.jpg");
+   
+}
+
+#title{
+    text-align: center;
+}
+
+#regle{
+    margin-left: 300px;
+    margin-top: 150px;
+}
+
+#dp{
+    margin-left: 1000px;
+}
+
+#theme{
+    text-align: center;
+   
+}
+
+#plage{
+    text-align: center;
+}
+
+#image{
+    text-align: center;
+}
+
+#montagne{
+    margin-top: 50px; 
+    text-align: center;
+    background-image: url("Images/montagnefond.jpg");
+   
+}
+
+#cuisine{
+    margin-top: 50px; 
+    text-align: center;
+    color: white; 
+    background-image: url("Images/Ardoise.jpg");
+   
+}
+
+#lettreProposee2{
+    background-image: url("Images/Ardoise.jpg");
+    color: white; 
+}
+
+#motPropose2{
+    background-image: url("Images/Ardoise.jpg");
+    color: white; 
+}
+
+#sendLettreProposee2{
+    background-color: red; 
+}
+
+#sendMotPropose2{
+    background-color: red; 
+}
